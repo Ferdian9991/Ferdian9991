@@ -9,5 +9,5 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ferdian9991&repo=material-calculator&theme=light)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdian9991&layout=compact&theme=light)
 
-<a href="https://www.instagram.com/febry_ardiansyah24" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/febry.ardiansyah.792/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/ferdian_64140" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/ferdian.ferdian.902" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
